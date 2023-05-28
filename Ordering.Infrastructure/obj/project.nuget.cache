@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9m07NoCV7O6Xx+p1KxOWHMeOKutRFKWOi+im96e43wnpIlnJHWagNXaUrinlrQHOHlOhAzv7XP01rxln2BRUA==",
+  "success": true,
+  "projectFilePath": "G:\\GitRepo\\MyProjects\\DomainDrivenDesign_Example\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sinan\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.csproj.AssemblyReference.cache
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.AssemblyInfoInputs.cache
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.AssemblyInfo.cs
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\bin\Debug\net7.0\Ordering.Domain.deps.json
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\bin\Debug\net7.0\Ordering.Domain.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\bin\Debug\net7.0\Ordering.Domain.pdb
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\refint\Ordering.Domain.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\Ordering.Domain.pdb
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Order.Domain\obj\Debug\net7.0\ref\Ordering.Domain.dll

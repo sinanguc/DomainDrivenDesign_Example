@@ -1,0 +1,17 @@
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.AssemblyInfo.cs
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Infrastructure.deps.json
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Infrastructure.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Infrastructure.pdb
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Application.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Domain.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Application.pdb
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\bin\Debug\net7.0\Ordering.Domain.pdb
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.csproj.CopyComplete
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\refint\Ordering.Infrastructure.dll
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\Ordering.Infrastructure.pdb
+G:\GitRepo\MyProjects\DomainDrivenDesign_Example\Ordering.Infrastructure\obj\Debug\net7.0\ref\Ordering.Infrastructure.dll

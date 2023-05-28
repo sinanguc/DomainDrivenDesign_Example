@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6X4Lz6zTt+qqTJZkcC1rTFDWEQwQMeuJhGySveBO6iJJyWpD3m3yKjHDTAcrv+PzpnH07WoaNe+SrE7jsgpmQ==",
+  "success": true,
+  "projectFilePath": "G:\\GitRepo\\MyProjects\\DomainDrivenDesign_Example\\Order.Domain\\Ordering.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sinan\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
