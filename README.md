@@ -13,7 +13,7 @@ Terminoloji:
 5. Layered Architecture
 6. Refactoring, Clean & Readable Code
 
-# UBIQUITOUS LANGUAGE
+**UBIQUITOUS LANGUAGE**
 
 Yazılımı geliştiren ekip ile ürün uzmanları arasında, ortak bir dil/iletişim olmalıdır.
 
@@ -23,7 +23,7 @@ Yazılımı geliştiren ekip ile ürün uzmanları arasında, ortak bir dil/ilet
 - Örnekler somut olmalıdır. Gerekirse canlı örnekler verilmelidir.
 - Amacı anlatmalıdır. Ortaya çıkarılan kararlar ve sonuçlar, belirlenen amaçlara hizmet etmelidir.
 
-# BOUNDED CONTEXT - CONTEXT MAPPING
+**BOUNDED CONTEXT - CONTEXT MAPPING**
 
 DDD tasarımında en merkezdeki prensiptir. Birbirinden ayrılmış, çerçeve ve sınırları belirlenmiş yapıdır.
 
@@ -33,7 +33,7 @@ DDD tasarımında en merkezdeki prensiptir. Birbirinden ayrılmış, çerçeve v
 - Bounded Context'ler birbirleri ile iletişim kurabilir olmalıdır. Stok ve Sipariş iletişim kuracaksa, bunlar belirli kurallar çerçevesinde olmalıdır. Amaç iletişim kurulurken belirli kurallar belirlemek, subdomainlerin birbirine olan bağımlılıklarını azaltmaktır.
 - Context Mapping, Bounded Context'lerin birbirleri ile olan kesişim noktaları ve iletişim mimarisidir. Sipariş ve Müşteri bounded contexti hangi alanları birbirleri ile bağlı veya ayrı olacak bunu belirler. Örn; Müşteri numarası bilgisinin Sipariş Context'inde işlevi varken, sipariş numarası bilgisinin Müşteri Context'inde işlevi yoktur.
 
-# ENTITY & VALUE OBJECT, AGGREGATE ROOT
+**ENTITY & VALUE OBJECT, AGGREGATE ROOT**
 
 Domainimizi modelleme kısmındaki en sık kullanılan kalıplardır.
 
@@ -41,14 +41,14 @@ Domainimizi modelleme kısmındaki en sık kullanılan kalıplardır.
 - **Value Object** , kimliğe sahip olması gerekmeyen nesnelerdir. DTO nesneleri buna örnek olabilir. Entity nesnesi içinde yer alan FullName alanı da örnek olabilir. Bu alan veri tabanında bir kimliğe sahip değildir. Fakat veri tabanında yer alan isim ve soyisim kayıtlarını birleştirip, sanki kimliğe sahipmiş gibi davranır.
 - **Aggregate Root** ,Transaction bütünlüğü, ilişkili objeler ve iş kurallarını ifade eder. İçerisinde birbirleri ile sıkı sıkıya bağlı, birlikte işlem yapması gereken nesneler barındırır. E-Ticaret sitelerinde sipariş detaylarına giriş yapıldığında sipariş listesi ile birlikte, siparişe ait ürünlerin listesi de yüklenir. Siparişle birlikte gelen sipariş edilen ürünlerin tek bir servis üzerinden bütünlük sağlanarak gelmesi gerekmektedir. Başka bir örnek vermek gerekirse, sipariş verirken satın alma limiti, stok kontrolü gibi validasyonlarında yapılmasını kolaylaştırır.
 
-# ERVICES - REPOSITORY
+**SERVICES - REPOSITORY**
 
 İş kurallarının işletilmesi ve çıktıları yönetmek için kullanılan bölümlerdir.
 
 - **Services** , iş kuralları ve validasyon işlemleri için kullanılır.
 - **Repository** , Bazı kurallarla birlikte Aggregate ile veri tabanı arasındaki iletişim için kullanılır.
 
-# LAYERED ARCHITECTURE
+**LAYERED ARCHITECTURE**
 
 DDD için dört katmanlı (Onion Architecture) mimari en temel kavramdır.
 
@@ -57,6 +57,6 @@ DDD için dört katmanlı (Onion Architecture) mimari en temel kavramdır.
 - Infrastructure Layer
 - Presentation Layer
 
-# REFACTORING, CLEAN & READABLE CODE
+**REFACTORING, CLEAN & READABLE CODE**
 
 Geliştirme yapılırken kullanılan metotlara girildiğinde, değişmesi gereken yerlere müdahale etmeyi ve iyileştirmeyi gerektirir. Burada temiz, okunabilir ve performanslı kod yazımı sağlanması, yazılan kodun gelişime açık olması sağlanmalıdır.
